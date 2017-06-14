@@ -1,0 +1,4 @@
+cd ..
+rmdir fork
+git clone http://github.com/axelspeedy/fork.git
+cd fork echo "Done"
